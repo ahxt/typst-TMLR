@@ -8,7 +8,8 @@ A typst TMLR template
 [Latex TMLR pdf](latex_TMLR.pdf)
 
 ## Typst pdf Preview
-![Preview](typst_TMLR.pdf)
+<p align="center">
+<img width="300" src="typst_TMLR.png">
 
 
 
