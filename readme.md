@@ -2,9 +2,15 @@
 
 A typst TMLR template
 
-![Typst TMLR pdf](typst_TMLR.pdf)
+## Typst and Latex pdfs
+[Typst TMLR pdf](typst_TMLR.pdf)
 
 [Latex TMLR pdf](latex_TMLR.pdf)
+
+## Typst pdf Preview
+![Preview](typst_TMLR.pdf)
+
+
 
 
 
